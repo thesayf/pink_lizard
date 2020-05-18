@@ -1,0 +1,22 @@
+{
+  "name": "pink_lizard",
+  "version": "1.0.0",
+  "description": "Social Enterprise App",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/thesayf/pink_lizard.git"
+  },
+  "author": "Rori Hinds",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/thesayf/pink_lizard/issues"
+  },
+  "homepage": "https://github.com/thesayf/pink_lizard#readme",
+  "dependencies": {
+    "mongoose": "^5.9.14"
+  }
+}
