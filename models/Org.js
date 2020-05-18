@@ -25,6 +25,10 @@ const OrgSchema = new Schema({
     projects: [{
         type: Schema.Types.ObjectId,
         ref: 'Project'
+    }],
+    participants: [{
+        type: Schema.Types.ObjectId,
+        ref: 'User'
     }]
 })
 
